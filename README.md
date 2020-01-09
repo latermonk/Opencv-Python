@@ -2,6 +2,13 @@
 Opencv-Python
 
 
+## Ubuntu Install OPENCV
+
+```
+apt install libopencv-dev python-opencv
+```
+
+
 
 ###  ubuntu opencv-python 安装
 
