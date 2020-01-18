@@ -24,3 +24,8 @@ pip install opencv-python
 pip install opencv-contrib-python
 ```
 
+
+
+#    python  opencv
+
+http://woshicver.com/SecondSection/Install%20OpenCV-Python%20in%20Ubuntu/   
